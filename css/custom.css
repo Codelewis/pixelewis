@@ -1,0 +1,9 @@
+@media (max-width: 767.98px) {
+    .unslate_co--site-nav.scrolled {
+        max-width: 53%;
+    }
+    .fancybox-container {
+        height: 50%;
+        width: 53%;
+    }
+}
